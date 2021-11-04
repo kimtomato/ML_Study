@@ -1,6 +1,6 @@
-# Coursera 강의 내용 및 Machine learning Study 내용 정리 
+# Coursera 강의 내용 및 Machine learning Study 정리 
 
-아래 링크들을 관련 내용을 정리해둔 notion과 연결됩니다. 
+아래 링크들은 관련 내용을 정리해둔 notion과 연결됩니다. 
 
 ## Machine_learning Study
 - [1. introduction Machine_learning](https://piquant-hunter-627.notion.site/1-introduction-to-ML-2eeb7908b2514d5d92afe1b68ff10b7e)
